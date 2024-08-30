@@ -234,3 +234,13 @@ header {
     --delay: 0s;
     animation: floating 4s ease-in-out var(--delay) infinite;
 }
+
+.marketwise{
+    font-family: "Montserrat", sans-serif;
+    font-size: 50px;
+    margin-bottom: 24px;
+    font-weight: 300;
+    color: white;
+    line-height: 70px;
+    text-align: center;
+}
